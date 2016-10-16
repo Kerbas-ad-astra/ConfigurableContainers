@@ -2,5 +2,7 @@
 *~
 *.mdb
 *.dll
-obj/**
+obj
+Releases
+Screenshots
 /GameData/ConfigurableContainers/VolumeConfigs.user
